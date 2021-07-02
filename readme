@@ -1,0 +1,7 @@
+CRUD - Funcionario / Empresa 
+
+Rest API - Typescript - NodeJs - Postgresql
+
+Criada com rotas de teste e postgresql.
+Schemas objetos com typeorm sendo empresa/funcionário.
+Ferramentas como eslint, prettier, nodemon e outros.
