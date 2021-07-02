@@ -4,7 +4,7 @@ Rest API - Typescript - NodeJs - Postgresql
 
 Criada com rotas de teste para postman / persistir em postgresql.
 Schemas objetos com typeorm sendo empresa/funcionário.
-Ferramentas como eslint, prettier, nodemon e outros.
+Bibliotecas:
 
 
 Dependências: 
