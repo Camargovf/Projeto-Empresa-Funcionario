@@ -1,3 +1,13 @@
 # Default ignored files
+
+
+remove node_modules
+git rm -r --cached node_modules
+
+git commit -am "node_modules be gone!"
+
+git push origin master
+
+
 /shelf/
 /workspace.xml
