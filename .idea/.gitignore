@@ -8,6 +8,17 @@ git commit -am "node_modules be gone!"
 
 git push origin master
 
+git rm -r --cached .
+git add .
+git commit -m "remove gitignore files"
+git push origin master
+
+/node_modules
 
 /shelf/
 /workspace.xml
+
+git rm -r --cached .
+git add .
+git commit -m "remove gitignore files"
+git push origin master
